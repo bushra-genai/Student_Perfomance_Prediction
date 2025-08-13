@@ -24,3 +24,11 @@ and deploy it using **Streamlit** for real-time prediction.
 ---
 
 ## 📁 Project Structure
+student-performance-prediction/
+
+├── app.py # Streamlit web app
+├── student_perfomance.pkl # Trained ANN model
+├── requirements.txt # Required Python libraries
+├── student_data.csv # Dataset for training
+├── student_perfomance.ipynb # Jupyter notebook (model building)
+└── README.md # Project documentation
