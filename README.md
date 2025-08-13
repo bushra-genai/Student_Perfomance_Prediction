@@ -1,16 +1,26 @@
-# 🎓 Student Performance Prediction Model
+# 🎓 Student Performance Prediction using Artificial Neural Network
 
-This project predicts **student academic performance** based on various features such as demographics, past grades, and study habits.  
-It uses an **Artificial Neural Network (ANN)** model for accurate prediction.
-
----
-
-## 📌 Project Overview
-- **Goal**: Predict the final exam score (`G3`) of students using given dataset.
-- **Model Type**: Artificial Neural Network (ANN) using TensorFlow/Keras.
-- **Frontend**: Streamlit app for easy interaction.
-- **Dataset**: `student_data.csv` (contains details like school, gender, age, grades, study time, etc.)
+This project predicts the **final academic performance (G3 score)** of students using a trained Artificial Neural Network (ANN) model.  
+The dataset includes features such as school, gender, age, study time, past failures, and previous grades (G1, G2).  
+A **Streamlit web application** is used for user-friendly predictions.
 
 ---
 
-## 📂 Project Structure
+## 📌 Project Objective
+The main goal is to develop a machine learning model that can **predict a student's final grade** based on given attributes,  
+and deploy it using **Streamlit** for real-time prediction.
+
+---
+
+## 🧠 Technologies & Tools Used
+- **Python**
+- **Pandas, NumPy**
+- **Scikit-learn**
+- **TensorFlow / Keras**
+- **Matplotlib, Seaborn**
+- **Streamlit** (for UI)
+- **Git & GitHub**
+
+---
+
+## 📁 Project Structure
