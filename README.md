@@ -32,3 +32,7 @@ student-performance-prediction/
 ├── student_data.csv # Dataset for training
 ├── student_perfomance.ipynb # Jupyter notebook (model building)
 └── README.md # Project documentation
+
+Author
+Bushra Sarwar
+📧 bushrasarwar589@gmail.com
